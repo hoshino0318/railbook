@@ -40,3 +40,4 @@ group :development do
 gem 'rspec-rails', '2.7.0'
 end
 
+gem 'will_paginate'
